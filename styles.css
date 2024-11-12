@@ -1,0 +1,27 @@
+.devs{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body{
+    margin:0px;
+}
+img{
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+    transition:all 1s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+h1{
+    font-family: fantasy;
+    font-size: 3em;
+    border-bottom: 2px solid yellow;
+    border-right:2px solid yellow;
+    width:400px;
+    text-align: center;
+    box-shadow: 4px 4px 5px #598f59;
+    margin-top:10px;
+}
