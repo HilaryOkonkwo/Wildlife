@@ -11,7 +11,7 @@ The project is aimed at helping beginners particularly students at Nnewi Tech Fa
 4. Simple and Clean Code: Easy for beginners to understand, comprehend and customize.
 
 ## Technologies Used
-1. HTML5: Used for Basic structure of the web page, ensuring semantic and accessible organization of content.
+1. HTML5: Used for basic structure of the web page, ensuring semantic and accessible organization of content.
 2. CSS: Used for styling the web page with emphasis on flexbox.
 
 ## Resources
@@ -19,7 +19,7 @@ The project is aimed at helping beginners particularly students at Nnewi Tech Fa
 The following images were used in this project:
 1. [Image 1: Stallions running in a field] (https://static.pexels.com/photos/52500/horse-herd-fog-nature-52500.jpeg)
 
-2. [Image 1: Elephant beside on Baby Elephant] (https://static.pexels.com/photos/66898/elephant-cub-tsavo-kenya-66898.jpeg)
+2. [Image 1: Elephant beside a Baby Elephant] (https://static.pexels.com/photos/66898/elephant-cub-tsavo-kenya-66898.jpeg)
             
 3. [Image 1: Fishes] (https://static.pexels.com/photos/213399/pexels-photo-213399.jpeg)
              
@@ -63,6 +63,9 @@ Wildlife/
 ## Contribution
 
 Contributions are welcomed! Feel free to fork this repository, make your changes, and submit a pull request with any improvements or new features.
+
+## License
+This project is licensed under the [MIT License](LICENSE)
 
 ## Contact
 
